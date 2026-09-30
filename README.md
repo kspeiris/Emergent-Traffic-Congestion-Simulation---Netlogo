@@ -6,6 +6,16 @@ A NetLogo-based simulation that demonstrates how **traffic congestion can emerge
 
 ---
 
+## 🎥 Video Presentation
+
+The project presentation video is available through the following Google Drive folder:
+
+👉 **[Watch the Video Presentation](https://drive.google.com/drive/folders/1eW7fzW5E2Q48mRSUCNbGdPaM_4S7LCQt?usp=sharing)**
+
+The video demonstrates the project concept, NetLogo model, agent behaviour, traffic-light interaction, emergent congestion, and simulation results.
+
+---
+
 ## 📌 Project Overview
 
 The **Emergent Traffic Congestion Simulation** models vehicle movement on a two-lane road using an agent-based approach.
@@ -320,15 +330,6 @@ Emergent Traffic Congestion Simulation
     └── Cars Passed
 ```
 
----
-
-## 🎥 Video Presentation
-
-The project presentation video is available through the following Google Drive folder:
-
-👉 **[Watch the Video Presentation](https://drive.google.com/drive/folders/1eW7fzW5E2Q48mRSUCNbGdPaM_4S7LCQt?usp=sharing)**
-
-The video demonstrates the project concept, NetLogo model, agent behaviour, traffic-light interaction, emergent congestion, and simulation results.
 
 ---
 
