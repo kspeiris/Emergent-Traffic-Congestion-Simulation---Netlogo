@@ -1,6 +1,8 @@
 # 🚦 Emergent Traffic Congestion Simulation
 
+
 > **Complex Systems – NetLogo Assignment**
+![image](image.png)
 
 A NetLogo-based simulation that demonstrates how **traffic congestion can emerge from simple interactions between individual vehicles, nearby vehicles, and a traffic light**.
 
